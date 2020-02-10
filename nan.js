@@ -21,6 +21,8 @@ NaN == NaN
 /* usually when you compare something to itself it is 
 true except for NaN */
 
+//NaN equal to ANYTHING is always false, even when compared to itself
+
 //How to check if a value is NaN?
 
 isNaN(NaN)
