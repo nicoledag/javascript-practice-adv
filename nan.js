@@ -47,6 +47,7 @@ accurate, then how to we check if a variable is NaN? */
 /*The only full proof way is since javascript treats NaN as
  unequal to itself, you can check with !== operator*/
 
+ /* 
  var a = NaN
  a !== a
  a = 1
@@ -57,5 +58,6 @@ accurate, then how to we check if a variable is NaN? */
  a !== a
  //false
 
+ */
 
 
