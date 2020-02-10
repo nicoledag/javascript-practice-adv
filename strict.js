@@ -55,3 +55,4 @@ function foo(arg){
 
 /* 4.  Using strict mode does not interview when usign eval which
 lets us analyze expression as a string */
+
